@@ -20,7 +20,7 @@ Výsledek lze poté **uložit jako PDF** pomocí běžné funkce tisku v prohlí
 
 ## 📦 Jak použít
 
-1. Stáhni nebo zkopíruj soubor [`abo-vypis.html`](./abo-vypis.html)  
+1. Stáhni nebo zkopíruj soubor [`abo-vypis.html`](./abo-vypis.html) a nebo využij GitHub pages https://doctor-bohlav.github.io/abo-statement-preview/abo-vypis.html
 2. Otevři ho v prohlížeči (Chrome, Edge, Firefox…)  
 3. Přetáhni nebo vyber svůj soubor s výpisem (`.abo`, `.gpc`, `.txt`)  
 4. Zobrazí se přehled výpisu s položkami  
@@ -90,7 +90,7 @@ You can then **save the result as a PDF** via your browser’s print dialog.
 
 ## 📦 How to Use
 
-1. Download or copy the file [`abo-vypis.html`](./abo-vypis.html)  
+1. Download or copy the file [`abo-vypis.html`](./abo-vypis.html)  or use GitHub pages https://doctor-bohlav.github.io/abo-statement-preview/abo-vypis.html
 2. Open it in your browser (Chrome, Edge, Firefox, etc.)  
 3. Drag & drop your `.abo` or `.gpc` file into the page  
 4. View the formatted statement  
